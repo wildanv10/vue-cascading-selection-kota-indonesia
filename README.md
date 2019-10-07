@@ -3,4 +3,4 @@
 Cascading Select Kota di Indonesia
 
 demo:
-https://jsfiddle.net/wildanv10/8dbqa3oy/
+https://codesandbox.io/s/vue-cascading-selection-city-in-indonesia-et52i
